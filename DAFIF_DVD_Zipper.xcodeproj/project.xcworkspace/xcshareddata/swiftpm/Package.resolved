@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Scripts",
+        "repositoryURL": "https://github.com/elmo5676/Scripts",
+        "state": {
+          "branch": null,
+          "revision": "1587254e02a64ef23d32301d8f97d826426c905b",
+          "version": "1.0.4"
+        }
+      },
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/Cearus/Zip",
+        "state": {
+          "branch": null,
+          "revision": "4f402798c82ac99ef0f50df00f19a73ba8bdb7d8",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
